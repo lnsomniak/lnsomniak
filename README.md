@@ -9,7 +9,7 @@
 
 ## 🔥 Featured Projects
 
-### 🎵 [FullCircle](https://github.com/ForkTheCity)- Intelligent Music Discovery Engine
+### 🎵 [FullCircle](https://github.com/lnsomniak/full-circle) - Intelligent Music Discovery Engine
 > ML powered personalized music recommendation system that actually understands your taste
 
 **The Problem:** Spotify's recommendations are trained on everybody. FullCircle learns *your* specific taste - the energy you look for, the moods you gravitate toward, how you jump between completely different genres.
