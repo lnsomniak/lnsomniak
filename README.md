@@ -1,7 +1,7 @@
 # Hi, I'm Sergio! 👋
 
-💻 Building technology that empowers communities and solves real-world problems  
-🚀 Currently: Developing open-source civic infrastructure & ML-powered tools  
+💻 Building technology that empowers communities and solves real world problems  
+🚀 Currently: Developing open source civic infrastructure & ML powered tools  
 🌱 Learning: Kubernetes, Docker, Machine Learning, diversifying my language stack  
 🤝 Open to: Open source collaboration and internship oppurtunities!
 
@@ -18,8 +18,8 @@
 - 🤖 XGBoost ML model with TF-IDF for prediction confidence
 - 🎯 Weighted similarity using rare tag IDF scores  
 - 📊 Cosine similarity calculations for artist matching
-- 🔍 Targeted filtering focusing on low-listen artists (exploration gap)
-- 🎛️ User-facing toggle for weighted vs general recommendations
+- 🔍 Targeted filtering focusing on low listen artists (exploration gap)
+- 🎛️ User facing toggle for weighted vs general recommendations
 - 📈 Achieves 89% accuracy in predicting musical preferences
 
 **Tech Stack:**  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🏙️ [ForkTheCity](https://github.com/ForkTheCity) - Open-Source Civic Infrastructure
+### 🏙️ [ForkTheCity](https://github.com/ForkTheCity) - Open Source Civic Infrastructure
 > Empowering communities to solve local problems through forkable civic networking tools
 
 **The Vision:** Modern cities have resources but lack coordination. ForkTheCity provides communities with modular, scalable tools to organize, fund, and execute projects that actually matter.
@@ -42,16 +42,16 @@
 ---
 
 ### 🔧 [IEEE@UH Inventory System](https://github.com/lnsomniak/IEEE-UH-Inventory-System) - Smart Inventory Management
-> ML-powered tracking system reducing equipment shortages for 100+ student engineers
+> ML powered tracking system reducing equipment shortages for 100+ student engineers
 
-Building a full-stack inventory management platform that:
+Building a fullstack inventory management platform that:
 - 🤖 Predicts hardware needs based on upcoming events using machine learning
 - 📊 Optimizes $10K+ annual budget allocation
 - 📦 Tracks 500+ electronic components with location mapping
 - ⚡ Reduces equipment shortages by 60%
 
 **Tech Stack:** FastAPI, React, PostgreSQL, Docker, Scikit-learn  
-**Real-world impact:** Developed for University of Houston IEEE student chapter
+**Real world impact:** Developed for University of Houston IEEE student chapter
 
 ---
 
@@ -59,8 +59,8 @@ Building a full-stack inventory management platform that:
 > Custom coding assistant built with Microsoft Phi-3, trained on personal coding style. An AI to teach me how to better create and cultivate the AI market.
 
 **What makes it special:**
-- Fine-tuned Microsoft Phi-3 Mini (3.8B parameters) using LoRA
-- Trained on 2000+ examples of my code, explanations, and problem-solving approach
+- Fine tuned Microsoft Phi-3 Mini (3.8B parameters) using LoRA
+- Trained on 2000+ examples of my code, explanations, and problem solving approach
 - Responds with detailed, "dumbed down" explanations matching my learning style
 - Integrated with IEEE inventory system for demand prediction
 
@@ -112,7 +112,7 @@ Building a full-stack inventory management platform that:
 
 🔨 **Current Projects:**
 - Building ForkTheCity's first forkable city instance
-- Training and fine-tuning Phi-3 coding assistant
+- Training and fine tuning Phi-3 coding assistant
 - Deploying IEEE inventory system to production
 - Finishing production of Full-Circle
 
@@ -120,7 +120,7 @@ Building a full-stack inventory management platform that:
 - Advanced Docker orchestration
 - Production ML deployment strategies
 - System design and scalability patterns
-- Open-source community building
+- Open source community building
 - Frontend Development
 
 ---
@@ -129,7 +129,7 @@ Building a full-stack inventory management platform that:
 
 **IEEE** - Building inventory management systems and proactively attending organization events as the infrastructure chair
 **ColorStack** - Promoting diversity in tech and encouraging my peers to do the same  
-**Breakthrough Houston** - Mentoring and supporting educational initiatives for a program that raised me  
+**Breakthrough Houston** - Mentoring and supporting educational initiatives for a program that raised me 
 **[Codepath](https://drive.google.com/file/d/1Y-eujODRWBuyMG30Ad1KpoKQpvy-YWWM/view)** - Mentoring Python yet also attending rigourous meetings twice weekly through a full courseload 
 
 ---
@@ -138,9 +138,9 @@ Building a full-stack inventory management platform that:
 
 I'm actively seeking:
 - 🎓 **Summer 2025 Internships** in Software Engineering, DevOps, or ML Engineering
-- 🤝 **Collaborations** on open-source projects
+- 🤝 **Collaborations** on open source projects
 
-**Interested in:** Full-stack development, ML/AI applications, civic technology, DevOps/infrastructure
+**Interested in:** Full stack development, ML/AI applications, civic technology, DevOps/infrastructure
 
 ---
 
@@ -154,8 +154,8 @@ I'm actively seeking:
 ## 🎨 Fun Facts
 
 - 🎵 I love to curate playlists across genres (UK rap, Latin indie, alt rock)
-- 🏋️ Regular gym-goer balancing code with physical fitness (ask me for my maxes you'd be surprised)
-- 🌮 Trilingual (English/Spanish/Farsi) - always happy to code-switch
+- 🏋️ Regular gym goer balancing code with physical fitness (ask me for my maxes you'd be surprised)
+- 🌮 Trilingual (English/Spanish/Farsi) - always happy to chat!
 - 🎮 Modded Minecraft enthusiast
 - 💿 Vinyl record collector
 
