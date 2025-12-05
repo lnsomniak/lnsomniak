@@ -127,10 +127,10 @@ Building a fullstack inventory management platform that:
 
 ## 🤝 Community Involvement
 
-**IEEE** - Building inventory management systems and proactively attending organization events as the infrastructure chair
-**ColorStack** - Promoting diversity in tech and encouraging my peers to do the same  
-**Breakthrough Houston** - Mentoring and supporting educational initiatives for a program that raised me 
-**[Codepath](https://drive.google.com/file/d/1Y-eujODRWBuyMG30Ad1KpoKQpvy-YWWM/view)** - Mentoring Python yet also attending rigourous meetings twice weekly through a full courseload 
+**IEEE** - Building inventory management systems and proactively attending organization events as the infrastructure chair  
+**ColorStack** - Promoting diversity in tech and encouraging my peers to do the same   
+**Breakthrough Houston** - Mentoring and supporting educational initiatives for a program that raised me   
+**[Codepath](https://drive.google.com/file/d/1Y-eujODRWBuyMG30Ad1KpoKQpvy-YWWM/view)** - Mentoring Python yet also attending rigourous meetings twice weekly through a full courseload   
 
 ---
 
