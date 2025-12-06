@@ -1,5 +1,5 @@
 # Hi, I'm Sergio! 👋
-
+[My typing speed for reference](https://github.com/lnsomniak/lnsomniak/blob/main/image_2025-12-06_095127609.png)  
 💻 Building technology that empowers communities and solves real world problems  
 🚀 Currently: Developing open source civic infrastructure & ML powered tools  
 🌱 Learning: Kubernetes, Docker, Machine Learning, diversifying my language stack  
