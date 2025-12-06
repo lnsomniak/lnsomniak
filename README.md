@@ -1,5 +1,5 @@
 # Hi, I'm Sergio! 👋
-[My typing speed for reference](https://github.com/lnsomniak/lnsomniak/blob/main/Average%20Typing%20Speed.png)
+[My typing speed for reference](https://github.com/lnsomniak/lnsomniak/blob/main/Average%20Typing%20Speed.png)  
 💻 Building technology that empowers communities and solves real world problems  
 🚀 Currently: Developing open source civic infrastructure & ML powered tools  
 🌱 Learning: Kubernetes, Docker, Machine Learning, diversifying my language stack  
