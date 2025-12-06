@@ -10,22 +10,25 @@
 ## 🔥 Featured Projects
 
 ### 🎵 [FullCircle](https://github.com/lnsomniak/full-circle) - Intelligent Music Discovery Engine
-> ML powered personalized music recommendation system that actually understands your taste
+> ML powered personalized music recommendation system that understands your taste
 
 **The Problem:** Spotify's recommendations are trained on everybody. FullCircle learns *your* specific taste - the energy you look for, the moods you gravitate toward, how you jump between completely different genres.
 
 **Key Features:**
-- 🤖 XGBoost ML model with TF-IDF for prediction confidence
-- 🎯 Weighted similarity using rare tag IDF scores  
+- 🤖 XGBoost ML model with TF-IDF for prediction confidence (85% accuracy)
+- 🎯 Weighted similarity using rare tag IDF scores
 - 📊 Cosine similarity calculations for artist matching
-- 🔍 Targeted filtering focusing on low listen artists (exploration gap)
-- 🎛️ User facing toggle for weighted vs general recommendations
-- 📈 Achieves 89% accuracy in predicting musical preferences
+- 🔮 Explore Mode - Hides artists you already know for pure discovery
+- 💡 Explainable AI - See WHY each artist was recommended
+- 👍👎 Feedback collection system for model retraining
+- 🎨 Personalized loading screen with your album artwork
 
-**Tech Stack:**  
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Backend:** FastAPI (Python), Spotify Web API, Spotipy, Last.fm API  
-**ML/Data:** XGBoost, TF-IDF, scikit-learn, NumPy, SciPy, SQLite, Redis  
+**Tech Stack:**
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** FastAPI (Python), Spotify Web API, Last.fm API
+- **ML/Data:** XGBoost, TF-IDF, scikit-learn, NumPy, SciPy
+- **Database:** Supabase (PostgreSQL)
+- **Deployment:** Vercel + Render
 
 **Live Demo:** https://full-circle-theta.vercel.app
 
