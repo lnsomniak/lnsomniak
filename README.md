@@ -1,7 +1,7 @@
 # Hi, I'm Sergio! 🎧
 [My typing speed for reference](https://github.com/lnsomniak/lnsomniak/blob/main/Average%20Typing%20Speed.png)  
-💻 Building technology expecting failure, pushing past it
-🏹 Currently: Developing Grocery application that creates a grocery list based on your macros needed!
+💻 Building technology expecting failure, pushing past it 
+🏹 Currently: Developing Grocery application that creates a grocery list based on your macros needed! 
 🌱 Learning: C++   
 🤝 Open to: Open source collaboration and internship oppurtunities!
 
