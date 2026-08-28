@@ -140,7 +140,7 @@ Building a fullstack inventory management platform that:
 ## 🌟 Open to Opportunities
 
 I'm actively seeking:
-- 🎓 **Summer 2025 Internships** in Software Engineering, DevOps, or ML Engineering
+- 🎓 **Summer 2026 Internships** in Software Engineering, DevOps, or ML Engineering
 - 🤝 **Collaborations** on open source projects
 
 **Interested in:** Full stack development, ML/AI applications, civic technology, DevOps/infrastructure
@@ -156,9 +156,9 @@ I'm actively seeking:
 
 ## 🎨 Fun Facts
 
-- 🎵 I love to curate playlists across genres (UK rap, Latin indie, alt rock)
+- 🎵 I love to curate playlists across genres (UK rap, Latin indie, alt rock etc etc)
 - 🏋️ Regular gym goer balancing code with physical fitness (ask me for my maxes you'd be surprised)
-- 🌮 Trilingual (English/Spanish/Farsi) - always happy to chat!
+- 🌮 Quadrilingual (English/Farsi/French/Spanish) - always happy to chat!
 - 🎮 Modded Minecraft enthusiast
 - 💿 Vinyl record collector
 
