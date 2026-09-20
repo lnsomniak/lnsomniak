@@ -17,8 +17,8 @@ Fullstack inventory platform for a 500+ component student hardware library, with
 `Next.js` `Phi-3 Mini` `DigiKey API` `Supabase`
 
 **Nexus** — Active
-Personal command center built around a filtered RSS and email feed, made to keep staying current down to minutes instead of an hour.
-`Tauri` `React` `Rust` `Supabase`
+A multi-platform personal command center built around a filtered RSS and email feed, with a monkeytype streak menu and a simple journal alongside it all. A bunch of blogs I'm subbed to with a subscription filter.
+`Tauri` `React` `Rust` `SQL`
 
 **Alpha Points** — Shipped
 Gamified engagement platform for the largest Hispanic organization on campus, with leaderboards, streaks, and Duo 2FA over university login.
